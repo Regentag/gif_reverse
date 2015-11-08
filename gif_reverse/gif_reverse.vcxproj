@@ -14,7 +14,7 @@
     <ProjectGuid>{B8F1D87E-6D7A-4D48-85C8-33FF0987A13E}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>gif</RootNamespace>
-    <ProjectName>reverse_gif</ProjectName>
+    <ProjectName>gif_reverse</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
